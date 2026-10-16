@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "Openscaped Data Visualization" 
-  site-url: "https://github.com/DanielDaye-NOAA/openscapes-data-viz" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  site-url: "https://danieldaye-noaa.github.io/openscapes-data-viz/" 
+  repo-url: "https://github.com/DanielDaye-NOAA/openscapes-data-viz"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
