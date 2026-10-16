@@ -1,6 +1,6 @@
 ---
-title: "Home"
-subtitle: "Template for development of regional lab manuals as part of the Passive Acoustic Monitoring Strategic Initiative"
+title: "Openscapes Data Visualization"
+subtitle: "Adapted from PAM SI regional lab manual template"
 page-layout: full
 ---
 
