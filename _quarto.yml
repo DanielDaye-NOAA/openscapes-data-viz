@@ -3,8 +3,8 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
+  title: "Openscaped Data Visualization" 
+  site-url: "https://github.com/DanielDaye-NOAA/openscapes-data-viz" 
   repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
-        text: "NMFS National Passive Acoustic Monitoring Network"
+        href: https://www.fisheries.noaa.gov/topic/atlantic-highly-migratory-species
+        text: "NMFS Atlantic Higly Migratory Species"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://github.com/DanielDaye-NOAA/openscapes-data-viz
+        text: "Github Repository"
 
     style: "docked"
     search: true
