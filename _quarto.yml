@@ -1,9 +1,12 @@
 project: 
   type: website
-
+  render:
+    - "*.qmd"
+    - "!template_content/"
+    
 website: 
   page-navigation: true
-  title: "Openscaped Data Visualization" 
+  title: "Openscapes Data Visualization" 
   site-url: "https://danieldaye-noaa.github.io/openscapes-data-viz/" 
   repo-url: "https://github.com/DanielDaye-NOAA/openscapes-data-viz"
   repo-actions: [edit, source, issue]
@@ -33,6 +36,12 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - section: content/BluefinTuna.qmd
+        contents:
+          - href: content/recBFT.qmd
+            text: Recreational BFT
+          - href: content/comBFT.qmd
+            text: Commercial BFT
       # - section: content/LabManagement.qmd
       #   contents: 
       #     - href: content/Safety.qmd

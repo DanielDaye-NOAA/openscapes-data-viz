@@ -9,3 +9,5 @@
 /_site/
 
 openscapes-data-viz-Rproj
+
+**/*.quarto_ipynb
